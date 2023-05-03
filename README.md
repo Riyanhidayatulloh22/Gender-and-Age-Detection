@@ -59,6 +59,6 @@ ketik perintah seperti di bawah.
 kemudian akan muncul hasil gambar detection
 
  <p align="center">
-    <img src="image/README/tujuh.png" width="700" />
+    <img src="image/README/lima.png" width="700" />
     <br>
  </p>
